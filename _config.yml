@@ -1,2 +1,2 @@
-#gems
-- jekyll.mentions
+gems:
+  - jekyll-mentions
